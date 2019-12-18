@@ -20,7 +20,7 @@
       <include>true</include>
       <metadata>
         <id>local</id>
-        <url>/jboss6/.m2/repository</url>
+        <url>/home/jboss6/.m2/repository</url>
         <source>LOCAL</source>
       </metadata>
     </repository>
